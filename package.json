@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/magni-vel-recusandae-minus",
-  "version": "11.19.222",
+  "version": "11.19.223",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -598,5 +598,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/magni-vel-recusandae-minus/issues"
   },
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.6.0"
 }
